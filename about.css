@@ -1,0 +1,61 @@
+
+#cf-2{
+    display: flex;
+    
+}
+#c-2{
+    background-color: black;
+    color: white;
+    padding: 3%;
+    width: 65%;
+    height: max-content;
+}
+#c-3{
+    background-color: black;
+    padding: 3%;
+    color: white;
+    
+}
+
+#nav{
+    float: right;
+    display: flex;
+}
+
+#nav-link{
+    background-color: grey;
+    color: white;
+    font-weight: 200px;
+    margin: 2%;
+    padding: 3%;
+    border-radius: 5%;
+    font-size: larger;
+}
+#nav-link:hover{
+    background-color: black;
+    color: white;
+}
+
+
+#img{
+    height: 10vh;
+}
+
+#img:hover{
+    background-color: goldenrod;
+    border-radius: 12%;
+}
+
+#c-4{
+    padding: 5%;
+    align-items: center;
+    text-align: center;
+}
+
+#footer{
+    background-color: rgba(0, 0, 0, 0.781);
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+background-color: blue;

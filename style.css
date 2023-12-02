@@ -1,0 +1,51 @@
+#cf-1{
+    display: flex;
+    background-image: url(https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    height: 600px;
+    background-size: cover;
+    justify-content: space-between;
+    background-position: top;
+}
+
+#p{
+    font-size: 100px;
+    color: whitesmoke;
+}
+
+#p2{
+    font-size: 50px;
+    color: white;
+}
+#p3{
+    color: white;
+}
+
+
+#p4{
+    color: white;
+}
+
+#nav-link{
+    color: white;
+    padding: 3%;
+    margin-top: 4%;
+    background-color: grey;
+    border-radius: 5%;
+}
+
+#nav-link:hover{
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+}
+
+#footer{
+    background-color: rgba(0, 0, 0, 0.781);
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+.LEON{
+    font-size: 100px;
+    color: beige;
+}
